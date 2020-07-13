@@ -13,3 +13,10 @@
 #which player went first.
 
 #STEP 6: Write a function that returns a boolean indicating whether a space on the board is freely available.
+
+#Long Story Short: Visual representation --> User Input --> Function --> Updates --> New Visual.
+
+
+
+
+
